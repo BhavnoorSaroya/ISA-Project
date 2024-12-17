@@ -79,7 +79,7 @@ The **Node.js API Gateway** consolidates these services under a single entry poi
 
 
 This project is licensed under the **GNU General Public License v3.0**.  
-You can view the full license text in the [LICENSE](LICENSE.md) file.
+You can view the full license text in the [LICENSE](LICENSE) file.
 
 [Learn more about the GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
